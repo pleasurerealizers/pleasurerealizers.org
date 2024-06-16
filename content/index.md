@@ -1,1 +1,1 @@
-# Welcome to my Flowershow site!
+Building bridges between reality and reflected utopia.
