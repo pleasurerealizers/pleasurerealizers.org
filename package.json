@@ -1,5 +1,5 @@
 {
-  "name": "flowershow",
+  "name": "@pleasurerealizers/pleasurerealizers.org",
   "version": "2.0.3",
   "scripts": {
     "dev": "concurrently \"npm run mddb\" \"npm run generate && cross-env NODE_ENV=development next-remote-watch content\" ",
