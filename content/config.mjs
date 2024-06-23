@@ -16,4 +16,5 @@ export default {
     instagram: "https://www.instagram.com/pleasurerealizers/",
   },
   theme: { default: "" },
+  showToc: false,
 };
