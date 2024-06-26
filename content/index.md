@@ -1,5 +1,4 @@
-Deeply loving the present moment is actually possible. Let's make this passionate love for existence available to everyone.
----
+# Deeply loving the present moment is actually possible. Let's make this passionate love for existence available to everyone.
 Welcome to the Pleasure Realizers.
 # Introduction
 The overarching theme of Pleasure Realizers can be described by **"Building bridges between reality and reflected utopias"**, which results in
@@ -16,7 +15,7 @@ If you deeply resonate with them as well, please get in touch via hey@pleasurere
 5. **incompleteness**: I recognize that flourishing can never be ultimately reached as it always has a process and project character.
 ## Bridge
 - **orientation**: Making steps **towards** flourishing happens by realizing subjective pleasure, both in the present moment and in an anticipatory way.
-## Intentions for realizing pleasure
+## Intentions for Pleasure Realizers
 1. **understanding the self**: I want to learn what it means for me to experience pleasure.
 2. **understanding others**: I want to use clear communication so that others can easily understand what it means for me to experience pleasure. I also want to understand what experiencing pleasure means for others.
 3. **realizing pleasure for the self**: I want to actively infuse every aspect of my life with pleasure, both my thoughts and my behaviors.
