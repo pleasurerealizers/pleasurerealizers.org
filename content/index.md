@@ -17,9 +17,9 @@ If you deeply resonate with them as well, please get in touch via hey@pleasurere
 - **orientation**: Making steps **towards** flourishing happens by realizing subjective pleasure, both in the present moment and in an anticipatory way.
 ## Intentions for Pleasure Realizers
 1. **understanding the self**: I want to learn what it means for me to experience pleasure.
-2. **understanding others**: I want to use clear communication so that others can easily understand what it means for me to experience pleasure. I also want to understand what experiencing pleasure means for others.
-3. **realizing pleasure for the self**: I want to actively infuse every aspect of my life with pleasure, both my thoughts and my behaviors.
-4. **realizing symbiotic pleasure**: I want to discover and realize ways how interactions with others result in experiencing more pleasure on all sides.
+2. **understanding others**: I want to understand what experiencing pleasure means for others.
+3. **realizing pleasure for the self**: I want to actively infuse every aspect of my life with pleasure, both my thoughts and my behaviors. I see myself as the core creator and cultivator of my own pleasure.
+4. **realizing symbiotic pleasure**: I want to use clear communication so that others can easily understand what it means for me to experience pleasure. Consequently, I want to discover and realize ways how interactions with others result in experiencing more pleasure on all sides.
 5. **leveraging inequality**: I want to leverage inequality as a motivation for sharing that results in symbiotic pleasure.
 
 More will be added soon. Last update: 2024-06-26.
