@@ -123,8 +123,8 @@ Next, we have the **bridge**, i.e. how the abstract, idealized, future-thinking,
 
 And finally, the **intentions** for being able to actually build these bridges of pleasure:
 
-1. **understanding the self**: I want to learn what it means for me to experience pleasure.
-2. **understanding others**: I want to understand what experiencing pleasure means for my environment.
+1. **understanding the self**: I want to learn and understand what it means for me to experience pleasure.
+2. **understanding others**: I want to learn and understand what experiencing pleasure means for my environment.
 3. **realizing pleasure for the self**: I want to actively infuse every aspect of my own life with pleasure, both my thoughts and my behaviors. I see myself as the core creator and cultivator of my own pleasure.
 4. **realizing symbiotic pleasure**: I want to discover and realize ways how interactions with my environment result in experiencing more pleasure on all sides.
 
