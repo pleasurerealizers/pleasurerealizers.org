@@ -129,6 +129,6 @@ And finally, the **intentions** for being able to actually build these bridges o
 4. **realizing symbiotic pleasure**: I want to discover and realize ways how interactions with my environment result in experiencing more pleasure on all sides.
 
 # Feedback
-Following the spirit of realizing symbiotic pleasure, of course this is a co-creative work. If you deeply resonate with this as well, please get in touch via hey@pleasurerealizers.org. If you disagree with anything or think that something is incomplete, get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org).
+Following the spirit of realizing symbiotic pleasure, of course this is a co-creative work. If you deeply resonate with this as well, please get in touch via hey@pleasurerealizers.org. If you disagree with anything or think that something is incomplete, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org).
 
 Last update: 2024-06-27
