@@ -93,7 +93,7 @@ Finally, in this context, "flourishing" is defined as **a hypothetical, idealize
 	- various notions of excellence, such as
 		- [arete](https://en.wikipedia.org/wiki/Arete) in the works of Aristotle
 		- [pāramitā](https://en.wikipedia.org/wiki/P%C4%81ramit%C4%81) in Buddhism
-# Why pleasure?
+# Why?
 The next question is: **"Why should we even strive for flourishing?"**
 ## Evolution
 From an evolutionary standpoint it makes sense: A species which adapts well to its environment (i.e. for which synergy with its environment is equivalent to pleasurable stability) has the best chances to survive in the long-term. Others die eventually, for instance due to resource exhaustion or because they kill themselves or each other.
