@@ -172,7 +172,7 @@ And finally, the **intentions** for being able to actually build these bridges o
 It can be easily seen that the fundamental flaw of many belief systems to date is that flourishing (= a better [world to come](https://en.wikipedia.org/wiki/World_to_come)) has always been seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death.
 
 But no matter whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected, holistic flourishing by seeing humans as "ultimate collaborators" instead of "ultimate competitors" and, in the process, working on realizing subjective and thus symbiotic pleasure in a constructive, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
-## This website
+## This project
 pleasurerealizers.org is fundamentally about **bringing together the bridge builders**, i.e. **establishing structures for individuals to assist each other in each of the four intentions** mentioned above. This means that in the entire domain of striving towards flourishing, pleasurerealizers.org specializes in **establishing pleasure-inducing positive feedback loops**, that is:
 - spreading the idea of Pleasure Realizers and making it accessible and understandable by every human on earth
 - aggregating and distributing wisdom
