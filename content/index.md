@@ -162,22 +162,23 @@ The intention of Pleasure Realizers can be summarized by **Building bridges of p
 
 - **orientation**: Making steps **towards** flourishing happens by realizing subjective pleasure, both in the present moment and in an anticipatory way.
 
-And finally, the **intentions** for being able to actually build these bridges of pleasure (note that despite the numbering, no order or sequence is implied):
+And finally, the **intentions** for being able to actually build these bridges of pleasure:
 
 1. **understanding the self**: I want to learn and understand what it means for me to experience pleasure.
 2. **understanding others**: I want to learn and understand what experiencing pleasure means for my environment.
 3. **realizing pleasure for the self**: I want to actively infuse every aspect of my own life with pleasure, both my thoughts and my behaviors. I see myself as the core creator and cultivator of my own pleasure.
 4. **realizing symbiotic pleasure**: I want to discover and realize ways how interactions with my environment result in experiencing more pleasure on all sides.
 
-It can be easily seen that the fundamental flaw of most civilizations to date is that flourishing (= a better [world to come](https://en.wikipedia.org/wiki/World_to_come)) has always been seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death.
+It can be easily seen that the fundamental flaw of many belief systems to date is that flourishing (= a better [world to come](https://en.wikipedia.org/wiki/World_to_come)) has always been seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death.
 
-But no matter whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected flourishing and, in the process, working on realizing subjective and thus symbiotic pleasure in a constructive, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
+But no matter whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected, holistic flourishing by seeing humans as "ultimate collaborators" instead of "ultimate competitors" and, in the process, working on realizing subjective and thus symbiotic pleasure in a constructive, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
 ## This website
 pleasurerealizers.org is fundamentally about **bringing together the bridge builders**, i.e. **establishing structures for individuals to assist each other in each of the four intentions** mentioned above. This means that in the entire domain of striving towards flourishing, pleasurerealizers.org specializes in **establishing pleasure-inducing positive feedback loops**, that is:
-- spreading the idea of Pleasure Realizers
+- spreading the idea of Pleasure Realizers and making it accessible and understandable by every human on earth
 - aggregating and distributing wisdom
 - building platforms which connect people who aim to realize symbiotic pleasure
-- hosting events, building communities and eventually building societies oriented around the idea of Pleasure Realizers
+- forming organizational structures (e.g. physical spaces, universal basic income etc.) for people to become able to actually dedicate their time to each of the four intentions
+- hosting events, building communities and eventually building societies and ecosystems oriented around the four intentions
 # Co-creation
 Following the spirit of realizing symbiotic pleasure, of course this is a co-creative work. If you deeply resonate with this as well, please get in touch via hey@pleasurerealizers.org. If you disagree with anything or think that something is incomplete, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
