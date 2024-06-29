@@ -49,6 +49,7 @@ Some very general examples include:
 - a highly pleasurable sexual or sensual session (e.g. tantra, amazing orgasms, subspace etc.)
 - dancing all night long to music you love (e.g. at a rave)
 - feeling a rush of gratitude for someone's presence in a vulnerable moment
+- laughing until your belly hurts
 - religious celebrations for respective believers such as [Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur), [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr), [Christmas](https://en.wikipedia.org/wiki/Christmas), [Vesak](https://en.wikipedia.org/wiki/Vesak), [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) and many more (pretty much all cultures have institutionalized peak experiences)
 
 Some associated terms include:
