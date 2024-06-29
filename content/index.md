@@ -35,6 +35,7 @@ Some associated terms for pleasurable stability include (both English and German
 - [subjective well-being](https://en.wikipedia.org/wiki/Subjective_well-being) and many other concepts studied by [positive psychology](https://en.wikipedia.org/wiki/Positive_psychology)
 - cultivating [brahmavihārā](https://en.wikipedia.org/wiki/Brahmavihara) in buddhism
 - [kama](https://en.wikipedia.org/wiki/Kama) in Dharmic religions
+- [ikigai](https://en.wikipedia.org/wiki/Ikigai)
 ### Peak experiences
 This refers to **an experience in which a limited set of pleasurable aspects is strongly emphasized temporarily**. Note that the temporary nature is what makes them pleasurable, i.e. living an entire life in only a single peak experience would typically not be sustainable or feasible in the long term.
 
@@ -66,12 +67,15 @@ With the previous definition of pleasure, "love" can be defined as **the desire 
 - good will
 - [eunoia](https://en.wikipedia.org/wiki/Eunoia) in the works of Aristotle
 - various [Greek words for love](https://en.wikipedia.org/wiki/Greek_words_for_love) (incl. [agape](https://en.wikipedia.org/wiki/Agape))
+- [ren](https://inst-east-and-west.org/en/learning/2018/002496.html) in Confucianism
 - [mettā](https://en.wikipedia.org/wiki/Maitr%C4%AB) in buddhism
 - [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) in various African cultures
 - [aloha](https://en.wikipedia.org/wiki/Aloha) in Hawaiian culture
 ## Wisdom
 In a similar fashion, "wisdom" can be defined as **the knowledge of ways to realize pleasure**. Some associated terms include:
 - [phronesis](https://en.wikipedia.org/wiki/Phronesis) in the works of Aristotle
+- [zhi](https://inst-east-and-west.org/en/learning/2019/002725.html) in Confucianism
+- [prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Hinduism)) in Hinduism
 - specifying "goals", virtues or desirable states of being for life
 	- [brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara) in Buddhism
 	- [puruṣārtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) in Hinduism
@@ -143,7 +147,7 @@ This means that we look at the concept of "thinking according to a certain belie
 > "Jede Vollendung muß Verdacht erwecken." (”Every completion must arouse suspicion.”)
 > *– Karl Jaspers, [Psychologie der Weltanschauungen](https://archive.org/details/psychologiederwe00jasp/page/n3/mode/2up)*, page 17
 # Characterizing Pleasure Realizers
-First, let's make some **observations** about the nature of flourishing. The first one is a possible **commitment** by you.
+First, let's make some **observations** about the nature of flourishing. The first one is a **commitment** by you.
 
 1. **metamotivation**: I strive for flourishing.
 2. **oneness of mind**: I recognize that every other individual in my environment is also striving for flourishing.
