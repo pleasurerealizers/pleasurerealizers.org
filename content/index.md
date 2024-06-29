@@ -1,7 +1,7 @@
 # Deeply loving the present moment is actually possible. Let's make passionate love for existence available to everyone.
 Welcome to the Pleasure Realizers.
 # Definitions
-To explain what Pleasure Realizers is actually about, we need to introduce a few core concepts. They might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms.
+To be able to characterize Pleasure Realizers, we first need to introduce a few core concepts. They might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms. Note that in the rest of this text, these terms ("environment", "pleasure", "love", "wisdom", "flourishing") will be used exclusively as defined below.
 ## Environment
 In this context, your "environment" refers to everything which is **beyond** what you call your "self" or your "I". That is, the people and other beings around you as well as nature.
 ## Pleasure
@@ -15,7 +15,7 @@ This refers to the **fulfillment of basic needs**. After all, walking on the pat
 - trust, belonging, self-confidence and freedom (feeling like your presence is appreciated and that you are trusted and loved, both by yourself and by others)
 - accepting death
 ### Pleasurable stability
-This refers to **being in a state where the fulfillment of these basic needs is something you perceive as stable**, i.e. where you don't need to be afraid of losing them. It includes factors such as:
+This refers to **being in a state where the fulfillment of these basic needs is something you subjectively perceive as stable**, i.e. where you don't need to be afraid of losing them. It includes factors such as:
 - knowing that you have stable structures around you which ensure that you always have enough food, water, warmth and housing
 - knowing that you genuinely appreciate your own body and feel safe in your own mind
 - feeling a sense of belonging and living in circumstances which you like calling „home“, both physically and socially
@@ -24,8 +24,10 @@ This refers to **being in a state where the fulfillment of these basic needs is 
 - knowing that you can always love and that you are always loved, no matter what happens
 - knowing that you have found peace with death, both your own and those of parts of your environment (e.g. other people you love)
 - knowing that, even if some of your basic needs are not fulfilled, you always have the **hope** that it will get better and that you always have the **strength** to act accordingly
-- knowing that, even in situations which feel immensely catastrophic, confusing or hopeless at first, you have a support network around you, people who care and people who help you find your own way back towards pleasurable stability
+- knowing that, even in situations which feel immensely catastrophic, confusing or hopeless at first, you know that you can handle this, both through your own resilience and possibly through a support network around you, people who care and people who help you find your own way back towards pleasurable stability
 - having daily routines which consistently "feel good" and which you want to keep, because you know that they contribute to your pleasure in the future
+
+After all, of course the future itself (including any notion of "true stability") doesn't exist, it's just the emotions connected to your outlook into the future which matter, e.g. through hope, optimism, excitement, confidence and contentment. Such emotions deserve to be fostered, not through naivety but through deliberative action.
 
 Some associated terms for pleasurable stability include (both English and German):
 - life satisfaction (Lebenszufriedenheit)
@@ -41,16 +43,16 @@ This refers to **an experience in which a limited set of pleasurable aspects is 
 
 This is yet another term from Maslow, who described [peak experiences](https://en.wikipedia.org/wiki/Peak_experience) as "rare, exciting, oceanic, deeply moving, exhilarating, elevating experiences that generate an advanced form of perceiving reality, and are even mystic and magical in their effect upon the experimenter."
 
-Some very general examples include:
-- awe-inspiring natural encounters (e.g. watching a sunrise from a mountaintop after a long hike)
+Of course in practice, peak experiences can come in varying intensities. Some very general examples include:
+- a deep meditative session
 - creative flow while creating art (e.g. writing, composing, painting etc.)
 - being in a deep conversation with someone where you don't even notice time flying
-- being at an event where you have experiences which feel incredibly meaningful, pleasurable and inspirational to you (e.g. a burn)
+- being at an event where you have many experiences which feel incredibly meaningful, pleasurable and inspirational to you (e.g. a burn)
 - the mystical experience of an intense, but highly insightful trip on psychedelics
-- a highly pleasurable sexual or sensual session (e.g. tantra, amazing orgasms, subspace etc.)
-- dancing all night long to music you love (e.g. at a rave)
-- feeling a rush of gratitude for someone's presence in a vulnerable moment
-- laughing until your belly hurts
+- a highly pleasurable sexual or sensual session (e.g. tantra, amazing orgasms, [subspace](https://en.wikipedia.org/wiki/Glossary_of_BDSM#Subspace) and topspace in BDSM etc.)
+- dancing all night long to music you love and getting lost in the music (e.g. at a rave)
+- feeling a rush of gratitude for someone's genuine presence in a vulnerable moment
+- awe-inspiring natural encounters (e.g. watching a sunrise from a mountaintop after a long hike)
 - religious celebrations for respective believers such as [Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur), [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr), [Christmas](https://en.wikipedia.org/wiki/Christmas), [Vesak](https://en.wikipedia.org/wiki/Vesak), [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) and many more (pretty much all cultures have institutionalized peak experiences)
 
 Some associated terms include:
@@ -66,7 +68,7 @@ Some associated terms include:
 With the previous definition of pleasure, "love" can be defined as **the desire to realize pleasure**. It can be directed towards anything – the self, another being, nature or anything in between. Some associated terms include:
 - good will
 - [eunoia](https://en.wikipedia.org/wiki/Eunoia) in the works of Aristotle
-- various [Greek words for love](https://en.wikipedia.org/wiki/Greek_words_for_love) (incl. [agape](https://en.wikipedia.org/wiki/Agape))
+- various [Greek words for love](https://en.wikipedia.org/wiki/Greek_words_for_love), incl. [philautia](https://en.wikipedia.org/wiki/Philautia) (self-love) and [agape](https://en.wikipedia.org/wiki/Agape)
 - [ren](https://inst-east-and-west.org/en/learning/2018/002496.html) in Confucianism
 - [mettā](https://en.wikipedia.org/wiki/Maitr%C4%AB) in buddhism
 - [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) in various African cultures
@@ -81,12 +83,12 @@ In a similar fashion, "wisdom" can be defined as **the knowledge of ways to real
 	- [puruṣārtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) in Hinduism
 ## Flourishing
 Finally, in this context, "flourishing" is defined as **a hypothetical, idealized state of existence where pleasure is the norm in all aspects of life**. It is equivalent to "holistic subjective pleasure for everyone" = "holistic collective pleasure" Some associated terms include:
-- [Frashokereti](https://en.wikipedia.org/wiki/Frashokereti) in Zoroastrianism
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) in the bible
 - [Golden Age](https://en.wikipedia.org/wiki/Golden_Age) in Greek mythology
 - [Sukhavati](https://en.wikipedia.org/wiki/Sukhavati) in Buddhism
 - [Satya Yuga](https://en.wikipedia.org/wiki/Satya_Yuga) and [Svarga](https://en.wikipedia.org/wiki/Svarga) in Hinduism
 - [Tian](https://en.wikipedia.org/wiki/Tian) in Confucianism and Taoism
+- [Frashokereti](https://en.wikipedia.org/wiki/Frashokereti) in Zoroastrianism
 - the world envisioned in the [Taipingjing](https://en.wikipedia.org/wiki/Taipingjing)
 - the world envisioned in [Utopia](https://en.wikipedia.org/wiki/Utopia_(book)) by Thomas More
 - a society solely consisting of individuals striving for
@@ -100,9 +102,9 @@ Finally, in this context, "flourishing" is defined as **a hypothetical, idealize
 # Why?
 The next question is: **"Why should we even strive for flourishing?"**
 ## Evolution
-From an evolutionary standpoint it makes sense: A species which adapts well to its environment (i.e. for which synergy with its environment is equivalent to pleasurable stability) has the best chances to survive in the long-term. Others die eventually, for instance due to resource exhaustion or because they kill themselves or each other.
+From an evolutionary standpoint considering [self-preservation](https://en.wikipedia.org/wiki/Self-preservation) it makes sense: A species which adapts well to its environment has the best chances to survive in the long-term. This means that such a species contributes to a long-term equilibrium in its ecosystem and for it, continuous synergy with its environment is equivalent to pleasurable stability. Others die eventually, for instance due to resource exhaustion, because they are killed by other actors in that ecosystem or because they kill themselves or each other.
 ## Existential reasoning
-Who are more existentially doubtful and have the habit of trying to objectively rationalize subjective pleasure might desire deeper reasoning. The following section makes an attempt at such reasoning from the perspective of humans. Note that this section is consciously agnostic towards any arguments related to transcendence, meaning that it does not assume or reject the existence of any state of being before birth or after death ([anamnesis](https://en.wikipedia.org/wiki/Anamnesis_(philosophy))).
+Those who are more existentially doubtful and try to objectively rationalize subjective pleasure might desire deeper philosophical investigation. The following section makes an attempt at such reasoning from the perspective of actors which perceive self-reflection. Note that this section is consciously agnostic towards any arguments related to transcendence, meaning that it does not assume or reject the existence of any state of being before birth or after death ([anamnesis](https://en.wikipedia.org/wiki/Anamnesis_(philosophy))).
 
 This argument **for** pleasure is valid **purely for the current moment**. But because this argumentative chain is always valid **at least** as long as you possess self-reflection and a body, it should become **subjectively infinite** (eternal now).
 
@@ -136,9 +138,9 @@ After all, your body is just a temporary gift. Probably you also have no idea wh
 
 If you continue reading on, I will assume that you have decided for life, for your body, for pleasure and, to get on the path towards flourishing, for realizing pleasure.
 ## Meta-belief
-Consider a way of thinking which still has a major influence today: [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism), the philosophical system developed by René Descartes, which implies a fundamental [separation between the mind and the body](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism). Or, more generally, the mind and its environment, leading to individuality and competition as well as everything that implies, e.g. colonialism, racism etc. Cartesianism sees the mind and its rational reasoning as superior, expressed through the commonly known phrase "I think, therefore I am". But opposing the irrational, dogmatic [religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism) of religions (i.e. the belief that only one particular belief system is true) should also imply opposing the absolute truth of "the mind is superior over the body", i.e. true rationalism should contradict its own absoluteness.
+Consider a way of thinking which still has a major influence today: [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism), the philosophical system developed by René Descartes, which implies a fundamental [separation between the mind and the body](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism). Or, more generally, the mind and its environment, leading to a high degree of individuality as well as everything that implies, e.g. isolation, neglecting emotions or dehumanizing certain humans in the [amity-enmity-complex](https://en.wikipedia.org/wiki/Amity%E2%80%93enmity_complex), but also empowerment, self-determination and resilience. Cartesianism sees the mind and its rational reasoning as superior, expressed through the commonly known phrase "I think, therefore I am". But opposing the irrational, dogmatic [religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism) of religions (i.e. the belief that only one particular belief system is true) should also imply opposing the absolute truth of "the mind is superior over the body", i.e. true rationalism should contradict its own absoluteness.
 
-But let's go further into the meta perspective: Fundamentally, of course thinking itself can be pleasurable as well. No matter whether it's in a "typically philosophical" or a "typically religious" domain. Few things feel better than the flow of thinking about complex subjects, engaging in the deepest conversations imaginable, having new insights, "aha moments", noticing connections between different concepts, feeling that you're "on the right track" and the satisfying feeling of understanding and clarity. And of course the peace of mind which someone has when they are deeply convinced that they have found "the truth" and clearly know how to act accordingly is something immensely pleasurable as well.
+But let's go further into the meta perspective: Fundamentally, of course thinking itself can be pleasurable as well. No matter whether it's in a "typically philosophical" or a "typically religious" domain. Few things feel better than the flow of thinking about complex subjects, engaging in the deepest conversations imaginable, having new insights, "aha moments", noticing connections between different concepts, feeling that you're "on the right track" and the satisfying feeling of understanding and clarity. And of course the peace of mind which someone has when they are deeply convinced that they have found "the truth" and clearly know how to act accordingly (= enlightenment) is something immensely pleasurable as well.
 
 So one thing should be clear: As long as we have the subjective experience **that** we are thinking, we also have a body. And if we have a body anyway which can experience pleasure in more realms than just the cognitive (and mental well-being is even enhanced by physical well-being!), then why not realize those pleasures as well?
 
@@ -147,6 +149,7 @@ This means that we look at the concept of "thinking according to a certain belie
 > "Jede Vollendung muß Verdacht erwecken." (”Every completion must arouse suspicion.”)
 > *– Karl Jaspers, [Psychologie der Weltanschauungen](https://archive.org/details/psychologiederwe00jasp/page/n3/mode/2up)*, page 17
 # Characterizing Pleasure Realizers
+## The framework
 First, let's make some **observations** about the nature of flourishing. The first one is a **commitment** by you.
 
 1. **metamotivation**: I strive for flourishing.
@@ -168,10 +171,14 @@ And finally, the **intentions** for being able to actually build these bridges o
 
 It can be easily seen that the fundamental flaw of most civilizations to date is that flourishing (= a better [world to come](https://en.wikipedia.org/wiki/World_to_come)) has always been seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death.
 
-But no matter whether it's with yourself, in a one-on-one friendship, a small community or an entire society: When having a shared compass which points towards genuine, reflected flourishing and, in the process, working on realizing subjective and thus symbiotic pleasure in a constructive, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
-
-**Pleasure Realizers is fundamentally about establishing structures for individuals to assist each other in each of the four intentions mentioned above.**
-# Feedback
+But no matter whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected flourishing and, in the process, working on realizing subjective and thus symbiotic pleasure in a constructive, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
+## This website
+pleasurerealizers.org is fundamentally about **bringing together the bridge builders**, i.e. **establishing structures for individuals to assist each other in each of the four intentions** mentioned above. This means that in the entire domain of striving towards flourishing, pleasurerealizers.org specializes in **establishing pleasure-inducing positive feedback loops**, that is:
+- spreading the idea of Pleasure Realizers
+- aggregating and distributing wisdom
+- building platforms which connect people who aim to realize symbiotic pleasure
+- hosting events, building communities and eventually building societies oriented around the idea of Pleasure Realizers
+# Co-creation
 Following the spirit of realizing symbiotic pleasure, of course this is a co-creative work. If you deeply resonate with this as well, please get in touch via hey@pleasurerealizers.org. If you disagree with anything or think that something is incomplete, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Last update: 2024-06-29
